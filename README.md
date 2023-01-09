@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Leo Vides
 #### Soy Técnico Desarrollador de Software y Programador fullstack
-![Soy Técnico Desarrollador de Software y Programador fullstack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy Técnico Desarrollador de Software y Programador fullstack](https://media.istockphoto.com/id/1174088603/es/foto/placa-de-circuito.jpg?s=612x612&w=0&k=20&c=dM4B1Ckn9OgYpNv_t-W_tA3r0zsJUBK9PuzpFBokP8Q=)
 
 Dedicado a la programación y tecnología en general
 
