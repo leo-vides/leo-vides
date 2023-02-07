@@ -4,7 +4,7 @@
 
 Dedicado a la programación y tecnología en general
 
-Habilidades:  REACT / JS / HTML / CSS
+Habilidades:  PHP / JS / HTML / CSS / MySql
 
 - 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo full stack 
